@@ -14,17 +14,21 @@ TransBoxEnhanced is a simple tool capable of running and creating .reg files tha
 
 The registry key this program changes is: HKEY_CURRENT_USER\Control Panel\Colors --- "Hilight" and "HotTrackingColor"
 
+	
+	
+	
 
-
+	
+	
 INSTALLATION 
  - have python3 installed https://www.python.org/downloads/
  - 
 
+	
+	
 
-
-
-
-
+	
+	
 Guide: 
 
 - Open main.py or run TransBoxEnhanced.exe (Created using pyinstaller) 
