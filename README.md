@@ -19,10 +19,10 @@
 ‎ 
 ‎ 
 
-INSTALLATION
-- have python3 installed https://www.python.org/downloads/
--
-‎ 
+
+- INSTALLATION
+    -  have python3 installed https://www.python.org/downloads/
+‎    - Open main.py or run TransBoxEnhanced.exe (Created using pyinstaller) 
 ‎ 
 ‎ 
 ‎ 
