@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Colors]
+"Hilight"=sz:"0 120 215"
+"HotTrackingColor"=sz:"0 120 215"
