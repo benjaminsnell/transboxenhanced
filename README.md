@@ -4,15 +4,24 @@ A simple tool capable of running and creating .reg files that change the transpa
 
 The folder "Other" is not required to run the program.
 This program doesnt require any extra librarys or modules, just Python3 
-To automatically run the .reg, you need to either 1) run as administrator or 2) run in folder that doesnt require admin 
-	permissions
 
+PLEASE NOTE: To automatically run the .reg, you need to either 1) run as administrator or 2) run in folder that doesnt require admin 
+	permissions
 
 TransBoxEnhanced is a simple tool capable of running and creating .reg files that change the transparent/highlight box
 	on windows. 
 
 
 The registry key this program changes is: HKEY_CURRENT_USER\Control Panel\Colors --- "Hilight" and "HotTrackingColor"
+
+
+
+INSTALLATION 
+ - have python3 installed https://www.python.org/downloads/
+ - 
+
+
+
 
 
 
