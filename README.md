@@ -1,6 +1,6 @@
 # transboxenhanced 📦🎨
-- A simple tool capable of running and creating .reg files that change the transparent/highlight box on windows.
-
+- A simple tool capable of running and creating .reg files that change the transparent/highlight box on WINDOWS 10.
+- THIS DOES NOT WORK ON WINDOWS 11
 - The folder "Other" is not required to run the program.
 
 - This program doesnt require any extra librarys or modules, just Python3 
